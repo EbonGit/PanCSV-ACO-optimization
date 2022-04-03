@@ -33,5 +33,7 @@ Script for PanAIO, optimize the creation of accounts for Zalando ACO with .csv o
 
 - You can now run the script 
 
+- the script generates a .json file, import it in panAIO as configuration
+
 ### Warning
 do not change file names !

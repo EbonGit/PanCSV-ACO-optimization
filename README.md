@@ -1,5 +1,5 @@
 # PanCSV-ACO-optimization
-Script for PanAIO, optimize the creation of accounts for Zalando ACO with .csv order by Discord user ID
+Script for PanAIO, optimize the creation of accounts, for Zalando ACO with .csv order by Discord user ID
 
 ------------------------------------------------------------
 

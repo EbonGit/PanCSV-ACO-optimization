@@ -1,0 +1,294 @@
+{
+    "quick": {
+        "About You": {
+            "oneCheckout": false,
+            "profile": "",
+            "account": "",
+            "proxy": "None",
+            "method": "Cash On Delivery",
+            "country": "at",
+            "discount": "None",
+            "mode": "Fast",
+            "dummy": "",
+            "stopOnDiscountError": false,
+            "number": 1,
+            "autoStart": false
+        },
+        "ALDI": {
+            "oneCheckout": false,
+            "profile": "",
+            "proxy": "None",
+            "number": 1,
+            "autoStart": false
+        },
+        "Amazon": {
+            "oneCheckout": false,
+            "account": "",
+            "proxy": "None",
+            "country": "ae",
+            "priceLimit": "0",
+            "quantity": "1",
+            "mode": "Fast",
+            "number": 1,
+            "autoStart": false
+        },
+        "Asos": {
+            "oneCheckout": false,
+            "profile": "",
+            "proxy": "None",
+            "account": "",
+            "currency": "Default",
+            "mode": "Normal",
+            "country": "AT",
+            "number": 1,
+            "autoStart": false
+        },
+        "Awlab": {
+            "oneCheckout": false,
+            "profile": "",
+            "proxy": "None",
+            "method": "Cash On Delivery",
+            "mode": "Captcha",
+            "country": "it",
+            "number": 1,
+            "autoStart": false
+        },
+        "Cisalfa": {
+            "oneCheckout": false,
+            "proxy": "None",
+            "profile": "",
+            "mode": "Fast",
+            "method": "Credit Card",
+            "number": 1,
+            "autoStart": false
+        },
+        "Courir": {
+            "oneCheckout": false,
+            "proxy": "None",
+            "profile": "",
+            "account": "",
+            "mode": "Aggressive",
+            "country": "fr",
+            "number": 1,
+            "autoStart": false
+        },
+        "Defshop": {
+            "oneCheckout": false,
+            "proxy": "None",
+            "account": "",
+            "number": 1,
+            "autoStart": false
+        },
+        "Disney": {
+            "oneCheckout": false,
+            "profile": "",
+            "proxy": "None",
+            "method": "Credit Card",
+            "mode": "Normal",
+            "country": "de",
+            "number": 1,
+            "autoStart": false
+        },
+        "Fnac": {
+            "oneCheckout": false,
+            "profile": "",
+            "proxy": "None",
+            "account": "",
+            "method": "PayPal",
+            "country": "fr",
+            "number": 1,
+            "autoStart": false
+        },
+        "Footasylum": {
+            "oneCheckout": false,
+            "profile": "",
+            "proxy": "None",
+            "method": "Credit Card",
+            "number": 1,
+            "autoStart": false
+        },
+        "Footpatrol": {
+            "oneCheckout": false,
+            "profile": "",
+            "proxy": "None",
+            "method": "Credit Card",
+            "country": "it",
+            "mode": "FE Fast",
+            "number": 1,
+            "autoStart": false
+        },
+        "Here Store": {
+            "oneCheckout": false,
+            "profile": "",
+            "proxy": "None",
+            "method": "Credit Card",
+            "number": 1,
+            "autoStart": false
+        },
+        "JDSports": {
+            "oneCheckout": false,
+            "profile": "",
+            "proxy": "None",
+            "method": "Credit Card",
+            "country": "gb",
+            "mode": "FE Fast",
+            "number": 1,
+            "autoStart": false
+        },
+        "Kith EU": {
+            "oneCheckout": false,
+            "proxy": "None",
+            "method": "Credit Card",
+            "profile": "",
+            "mode": "Normal Captcha",
+            "number": 1,
+            "autoStart": false
+        },
+        "LDLC": {
+            "oneCheckout": false,
+            "profile": "",
+            "proxy": "None",
+            "account": "",
+            "country": "be",
+            "method": "Bank Transfer",
+            "mode": "Founder",
+            "number": 1,
+            "autoStart": false
+        },
+        "LVR": {
+            "oneCheckout": false,
+            "profile": "",
+            "proxy": "None",
+            "account": "",
+            "method": "Bank Transfer",
+            "mode": "Keywords",
+            "discount": "None",
+            "number": 1,
+            "autoStart": false
+        },
+        "Micromania": {
+            "oneCheckout": false,
+            "profile": "",
+            "proxy": "None",
+            "account": "",
+            "mode": "Normal",
+            "method": "Credit Card",
+            "number": 1,
+            "autoStart": false
+        },
+        "NBSklep": {
+            "oneCheckout": false,
+            "profile": "",
+            "proxy": "None",
+            "method": "Cash On Delivery",
+            "country": "cz",
+            "number": 1,
+            "autoStart": false
+        },
+        "New Balance": {
+            "oneCheckout": false,
+            "profile": "",
+            "proxy": "None",
+            "mode": "Queue manual",
+            "country": "au",
+            "method": "Credit Card",
+            "number": 1,
+            "autoStart": false
+        },
+        "Nike": {
+            "oneCheckout": false,
+            "proxy": "None",
+            "country": "at",
+            "account": "",
+            "profile": "",
+            "method": "Credit Card",
+            "mode": "Normal",
+            "number": 1,
+            "autoStart": false
+        },
+        "Revolve": {
+            "oneCheckout": false,
+            "profile": "",
+            "proxy": "None",
+            "number": 1,
+            "autoStart": false
+        },
+        "Rinascente": {
+            "oneCheckout": false,
+            "profile": "",
+            "proxy": "None",
+            "number": 1,
+            "autoStart": false
+        },
+        "Size": {
+            "oneCheckout": false,
+            "profile": "",
+            "proxy": "None",
+            "method": "Credit Card",
+            "country": "gb",
+            "mode": "FE Fast",
+            "number": 1,
+            "autoStart": false
+        },
+        "TheHipStore": {
+            "oneCheckout": false,
+            "profile": "",
+            "proxy": "None",
+            "method": "Credit Card",
+            "country": "gb",
+            "mode": "FE Fast",
+            "number": 1,
+            "autoStart": false
+        },
+        "Yoox": {
+            "oneCheckout": false,
+            "profile": "",
+            "proxy": "None",
+            "method": "Cash On Delivery",
+            "mode": "Risky",
+            "number": 1,
+            "autoStart": false
+        },
+        "Zalando": {
+            "oneCheckout": false,
+            "proxy": "None",
+            "account": "",
+            "discount": "None",
+            "method": "Cash On Delivery",
+            "profile": "",
+            "bank": "ABN_AMRO_BANK",
+            "mode": "Restock",
+            "country": "at",
+            "number": 1,
+            "autoStart": false
+        }
+    },
+    "key": "06307d25-2af2-4b05-9d15-78361a1f8e9b",
+    "tasks": {},
+    "generators": {},
+    "proxies": {},
+    "profiles": {},
+    
+	
+	"accounts": {
+        "aaaaaaaaa": {
+            "accounts": [{"email":"email","password":"pswd"},{"email":"email2","password":"pswd2"}],
+            "site": "Zalando",
+            "name": "a"
+        }
+    }
+	,
+    "discounts": {},
+    "webhooks": {},
+    "twocaptcha": "",
+    "anticaptcha": "",
+    "anycaptcha": "",
+    "capmonster": "",
+    "recaptchaSolving": "Manual",
+    "hcaptchaSolving": "Manual",
+    "geetestSolving": "",
+    "audio": -1,
+    "notification": false,
+    "quickWebhook": "",
+    "releasesProxy": "None"
+}
